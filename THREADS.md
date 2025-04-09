@@ -61,3 +61,8 @@ npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing
 - svix	Webhook service used for secure, scalable event delivery (e.g., Clerk webhooks)
 
 - uploadthing	Backend SDK for handling file uploads and storage with UploadThing
+
+### Tailwind package installed
+```bash
+npm install tailwindcss-animate
+```
